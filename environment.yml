@@ -1,0 +1,13 @@
+name: nlp_tweets
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - ipykernel
+  - pandas>=1.5.0
+  - matplotlib>=3.5.0
+  - datasets>=2.0.0
+  - tqdm
+  - scikit-learn>=1.3.0
+  - seaborn
