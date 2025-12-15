@@ -1,0 +1,13 @@
+# Generated data files from lab2 notebook
+Abgabe/Data/tweets_training_ready_*.csv
+Abgabe/Data/tweets_training_ready_*.parquet
+Abgabe/Data/label_distribution.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
