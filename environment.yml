@@ -15,6 +15,7 @@ dependencies:
   - nltk
   - spacy
   - emoji
+  - anthropic
   #create your environment run: conda env create -f environment.yml
   #or update your environment run: conda env update --f environment.yml --prune
   #activate your environment run : conda activate nlp_tweets
