@@ -16,6 +16,14 @@ dependencies:
   - spacy
   - emoji
   - anthropic
+  - gensim
+  - pyldavis
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cpuonly
   #create your environment run: conda env create -f environment.yml
-  #or update your environment run: conda env update --f environment.yml --prune
-  #activate your environment run : conda activate nlp_tweets
+  #or update your environment run: conda env update -f environment.yml --prune
+  #activate your environment run: conda activate nlp_tweets
+  #IMPORTANT: After environment creation, download the spaCy model:
+  #  python -m spacy download en_core_web_sm
