@@ -1,6 +1,6 @@
 {
   "description": "Top 1000 most frequent tokens from preprocessed tweets (Lab 4)",
-  "source": "../Data/multi_label/tweets_preprocessed_train.parquet",
+  "source": "../Data/tweets_preprocessed_train.parquet",
   "count": 1000,
   "tokens": [
     "new",
